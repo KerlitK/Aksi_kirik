@@ -1,5 +1,4 @@
-# Aksi_kirik
-Äksi Andrease kiriku virtuaalreaalsuse kogemus.
+# Äksi Andrease kiriku virtuaalreaalsuse kogemus
 
 Veebiportfoolio tööprotsessi ülevaatega: https://www.behance.net/gallery/171715265/Paula-Kivi-Kerlit-Kehman-2-3D-KHB
 
